@@ -1,0 +1,16 @@
+hf_token: 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
+serpapi_api_key: 87166c6d8e5802c3fd6d6954b328f51e466c036256d94868d4365b66a94fdff7
+embedding_model: AI-Growth-Lab/PatentSBERTa
+#BART_model: facebook/bart-large-cnn
+#dataset_chroma_db: ./dschroma_db
+#dataset_chroma_db_collection_name: PatentQA
+chatPDF_chroma_db: pdfpatentchroma_db
+llm_repoid: HuggingFaceH4/zephyr-7b-beta
+serpapi_api_key: 87166c6d8e5802c3fd6d6954b328f51e466c036256d94868d4365b66a94fdff7
+reactstyle_prompt: hwchase17/react-json
+selfask_prompt: hwchase17/self-ask-with-search
+tavily_api_key: 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
+groq_api: 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
+chat_model: llama3-8b-8192
+pdf_chat_model: llama3-70b-8192
+local_model_path: ./model/zephyr-7b-beta.Q5_K_S.gguf
