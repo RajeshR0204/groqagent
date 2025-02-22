@@ -1,3 +1,4 @@
 pyyaml
 autogen-agentchat
 autogen
+groq
